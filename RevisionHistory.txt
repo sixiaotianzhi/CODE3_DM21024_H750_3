@@ -1,0 +1,16 @@
+; Revision History
+	
+; Version	Tools	Date	  Author		CheckSum		Description
+
+;0.1.0	STM32	2022-09-28 CTZ		0xXXX(CRC32)		初版
+;0.1.1	STM32	2022-11-07 CTZ		0xXXX(CRC32)		显示OK
+;0.1.2	STM32	2022-12-02 CTZ		0xXXX(CRC32)		显示与菜单整合
+;0.1.3	STM32	2022-12-30 CTZ		0xXXX(CRC32)		SD+USB
+;0.1.4	STM32	2023-01-13 CTZ		0xXXX(CRC32)		校准参数
+;0.1.5	STM32	2023-02-08 CTZ		0xXXX(CRC32)		优化LCD SPI+DMA
+;0.1.6	STM32	2023-02-24 CTZ		0xXXX(CRC32)		优化前BUG 按键切换模式
+
+
+
+
+	
